@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\lucca\OneDrive\Documentos\Projetos\EA871\Atividade 1\main.c(18,17): warning C4013: 'counter' indefinido; assumindo extern retornando int
+  Atividade 1.vcxproj -> C:\Users\lucca\OneDrive\Documentos\Projetos\EA871\Atividade 1\x64\Debug\Atividade 1.exe
