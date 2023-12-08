@@ -1,0 +1,1 @@
+Desenvolvi o projeto utilizando o timer2 em vez do timer1, logo, o pino associado ao meu programa é o 3 e nao o 10.
