@@ -1,4 +1,4 @@
-# Atividade 1 - Programação em C
+# Atividade 1 - Programação básica em C
 
 O objetivo desta tarefa é contar o número de bits iguais a 1 em um byte recebido como entrada. 
 A tabela a seguir contém os testes que serão empregados na
